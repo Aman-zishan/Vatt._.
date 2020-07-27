@@ -1,3 +1,6 @@
+<h2 align="center">Vatt ._. </h2>
+
+
 <div align="center">
   
 [![Build Status](https://travis-ci.com/Aman-zishan/DocScanner.svg?branch=master)](https://travis-ci.com/Aman-zishan/DocScanner)
