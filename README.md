@@ -12,6 +12,3 @@
 [![GitHub forks](https://img.shields.io/github/forks/Aman-zishan/Vatt._..svg?style=social&label=Fork&maxAge=2592000)](https://github.com/Aman-zishan/Vatt._./network/members)
 
 </div>
-
-
-## A Whatsapp group alternate
