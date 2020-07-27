@@ -1,6 +1,5 @@
 <div align="center">
   
-[![time tracker](https://wakatime.com/badge/github/Aman-zishan/Vatt._..svg)](https://wakatime.com/badge/github/Aman-zishan/Vatt._.)
 [![Build Status](https://travis-ci.com/Aman-zishan/Vatt._..svg?branch=master)](https://travis-ci.com/Aman-zishan/Vatt._.)
 [![GitHub issues](https://img.shields.io/github/issues/Aman-zishan/Vatt._..svg)](https://GitHub.com/Aman-zishan/Vatt._./issues/)
 [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/Aman-zishan/Vatt._./issues)
